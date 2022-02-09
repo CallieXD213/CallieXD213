@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CallieXD213
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Evreyone who needs me!
+- 💞️ I’m looking to collaborate on Everyone who needs me!
 - 📫 How to reach me @ilikecallie ( Twitter )
 
 <!---
